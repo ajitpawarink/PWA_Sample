@@ -1,0 +1,13 @@
+{
+  "name": "my-pwa",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^32.1.2",
+    "electron-packager": "^17.1.2"
+  },
+  "author": "aj"
+}

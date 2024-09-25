@@ -1,0 +1,11 @@
+To serve your app locally on web
+--------------------------------------------------------
+Switch to src folder
+
+To serve your app locally, you can use a simple local server. One option is to use Node.js and the http-server package:
+Install it globally, run:
+---> npm install -g http-server
+
+In your project folder, run:
+---> http-server -c-1
+--------------------------------------------------------
